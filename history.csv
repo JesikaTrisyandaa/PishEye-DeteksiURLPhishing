@@ -1,0 +1,5 @@
+username, url, result, timestamp,Username,URL,Result,Timestamp,url_length,path_length,fd_length,count-,count.,count=,count-http,count-https,count-www,count-digits,count_dir,count_slashes,count_subdomain,short_url
+,,,,yura yunita,https://www.rottentomatoes.com/celebrity/lothaire_bluteau/,Not Phishing,2025-01-09 02:49:41.123005,58,28,3,0,2,0,1,1,1,0,3,5,2,0
+,,,,yura yunita,http://atualizacaodedados.online,Phishing,2025-01-09 02:50:05.957039,32,0,6,0,1,0,1,0,0,0,0,2,1,0
+,,,,yura yunita,http://www.tevhidigundem.ml/login/,Phishing,2025-01-09 02:50:20.086313,34,7,2,0,2,0,1,0,1,0,2,4,2,0
+,,,,yura yunita,https://www.wikipedia.org,Not Phishing,2025-01-09 02:50:31.914648,25,0,3,0,2,0,1,1,1,0,0,2,2,0
